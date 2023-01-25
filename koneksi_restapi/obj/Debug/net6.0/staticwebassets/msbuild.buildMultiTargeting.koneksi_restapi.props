@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\koneksi_restapi.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uLMtdm1DlaWFgC35wm7JHfSAKJrxO+5kV9Vrd1mqN+U=",
+  "Source": "koneksi_restapi",
+  "BasePath": "_content/koneksi_restapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
